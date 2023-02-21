@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ideagen test", "Ideagen test\Ideagen test.csproj", "{02903FCE-107C-41BA-A203-91D9122D7068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02903FCE-107C-41BA-A203-91D9122D7068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02903FCE-107C-41BA-A203-91D9122D7068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02903FCE-107C-41BA-A203-91D9122D7068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02903FCE-107C-41BA-A203-91D9122D7068}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19AAEEE5-E401-4AD8-9A50-02D9575A232D}
+	EndGlobalSection
+EndGlobal
